@@ -1,0 +1,1 @@
+Esse projeto é pra aprender o git
