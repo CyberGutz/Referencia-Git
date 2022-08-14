@@ -167,5 +167,3 @@ Quando você quer contribuir com algum projeto, você deve fazer o Pull Request 
 ## Epílogo
 
 ***Este guia de git foi feito com a ajuda dos vídeos Git e GitHub <a href = "https://youtu.be/DqTITcMq68k">Parte 1</a> e <a href = "https://youtu.be/UBAX-13g8OM">Parte 2</a> da Rafaella Ballerini, além de takes pessoais e comentários acerca do assunto. Sinta se livre para colaborar com este projeto e adicionar créditos no Epílogo. Espero que o guia seja de ajuda para outros estudantes que como eu, foram  uma vez confusos a respeito dessa tecnologia tão importante pro dia a dia de um programador.***
-
-Olá mundo.
