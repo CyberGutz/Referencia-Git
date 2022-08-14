@@ -140,14 +140,20 @@ Clone é quando queremos utilizar um projeto já criado, clonando os seus arquiv
 
 - `git clone linkDoRepositório`
 
+<br>
+
 ### Fork
 Fork é quando copiamos um projeto para nosso próprio usuário do GitHub, seja para estudar o projeto, fazer nossas próprias alterações, ou apenas salvar o projeto com intuito de reaproveitar códigos ou features. Esse processo é feito no próprio GitHub, sem a necessidade de usar um comando.
+
+<br>
 
 ### Pull
 
 O pull é usado para atualizar um projeto que você tem clonado na sua máquina ou para implementar uma alteração que um colaborador fez em seu projeto.
 
 - `git pull nomeDoProjeto`
+
+<br>
 
 ### Pull Request
 Quando você quer contribuir com algum projeto, você deve fazer o Pull Request no projeto original, de modo que o dono do projeto consegue revisar as suas alterações e decidir se vai implementá-las ou não. Este processo é feito na plataforma do GitHub.
