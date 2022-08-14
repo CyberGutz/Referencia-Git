@@ -1,8 +1,5 @@
 # Referência Git
 
-#### ***Projeto feito na intenção de me ensinar e ao mesmo tempo manter uma referência (dicionário) de comandos básicos ou mais usados no dia a dia.***
----
-
 ## Primeiros Passos
 <br>
 
@@ -96,7 +93,7 @@ A mensagem do commit é o nome do commit, use-a para informar as mudanças que f
 
 Push é mandarmos nosso commit ao repositório remoto, realizando a alteração do nosso commit.
 
-- `git push -u origin main` comando que só deve ser usado quando estamos fazendo nosso primeiro push. Ele reconhece nosso repositório remoto e confirma a ligação que fizemos do repositório em nossa máquina com o repositório remoto. (Nota do Autor: Explicação incerta, se cometi um erro, me avise, ou sinta-se livre para propor uma alteração).
+- `git push -u origin main` comando que só deve ser usado quando estamos fazendo nosso primeiro push. Ele reconhece nosso repositório remoto e confirma a ligação que fizemos do repositório em nossa máquina com o repositório remoto. (Nota do Autor: Explicação incerta. Se cometi um erro, me avise, ou sinta-se livre para propor uma alteração).
 - `git push origin main` comando que puxa todas as branches para a main.
 - `git push origin branch` comando que puxa as alterações somente para uma branch específica.
 
@@ -145,8 +142,6 @@ Clone é quando queremos utilizar um projeto já criado, clonando os seus arquiv
 
 ### Fork
 Fork é quando copiamos um projeto para nosso próprio usuário do GitHub, seja para estudar o projeto, fazer nossas próprias alterações, ou apenas salvar o projeto com intuito de reaproveitar códigos ou features. Esse processo é feito no próprio GitHub, sem a necessidade de usar um comando.
-
-<br>
 
 ### Pull
 
