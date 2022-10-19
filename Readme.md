@@ -169,7 +169,7 @@ Fork é quando copiamos um projeto para nosso próprio usuário do GitHub, seja 
 
 ### Pull
 
-O pull é usado para atualizar um projeto que você tem clonado na sua máquina ou para implementar uma alteração que um colaborador fez em seu projeto.
+O pull é usado para atualizar um projeto que você tem clonado na sua máquina ou atualizar um projeto seu para implementar uma alteração que um colaborador fez.
 
 - `git pull nomeDoProjeto`
 
