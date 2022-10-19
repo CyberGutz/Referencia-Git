@@ -99,6 +99,22 @@ Push é mandarmos nosso commit ao repositório remoto, realizando a alteração 
 
 <br>
 
+## Reversão
+
+### Reset
+
+Reset é utilizado quando você quer voltar o código em um ponto específico.
+
+- `git reset`
+  
+### Descartar Mudanças
+
+Além de mudar de branches, o comando checkout também serve para descartar mudanças em arquivos específicos.
+
+- `git checkout arquivo`
+
+<br>
+
 ## Branch e Merge
 
 <br>
@@ -118,6 +134,10 @@ Para apenas criar uma nova branch, sem sair da sua branch atual, use o comando:
 Para alternar para uma branch já existente, use o comando: 
 
 - `git checkout nomeDaBranch`
+
+Para listar as branches, use o comando:
+
+- `git branch`
 
 <br>
 
@@ -160,9 +180,19 @@ Quando você quer contribuir com algum projeto, você deve fazer o Pull Request 
 
 <br>
 
+### Fetch
+
+<br>
+
+`git fetch` é quando queremos receber branches remotos que não estão mapeados.
+
+<br>
+
 > *Boas práticas de Pull Request: Quando fizer Pull Request, sempre deixe uma descrição das alterações que foram feitas, de modo que fique mais fácil para o dono do projeto revisá-las e menos confuso ou difícil de achar a sua alteração.*
 
 <br>
+
+
 
 ## Epílogo
 
